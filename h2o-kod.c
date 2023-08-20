@@ -123,5 +123,5 @@ main() {
     }
 
     printf("\n\nProgram je završio sa radom");
-
+    return 0;
 }
